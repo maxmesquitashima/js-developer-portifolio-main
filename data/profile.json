@@ -22,15 +22,7 @@
         "logo": "assets/img/js.png"
       },
 
-      {
-        "name": "Node.js",
-        "logo": "assets/img/nodejs.png"
-      },
-
-      {
-        "name": "React",
-        "logo": "assets/img/react.png"
-      },   
+      
            
       {
         "name": "GitHub",
@@ -68,8 +60,8 @@
   "professionalExperience": [
     {
       "name": "Desenvolvedor Front-End",
-      "period": "2022 - Current",
-      "description": "Desenvolvimento de aplicações web com React, Node.js e outras tecnologias."
+      "period": "2024 - Current",
+      "description": "Desenvolvimento de aplicações web com HTML, CSS e JavaScript."
     }
   ]
 }
