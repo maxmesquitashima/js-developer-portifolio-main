@@ -1,0 +1,75 @@
+{
+  "name": "Maximiliano Shimabucuro",
+  "photo": "assets/img/1.jpg",
+  "job": "Front-end Developer",
+  "location": "Santa Catarina-BR",
+  "phone": "(11) 9 6308-0994",
+  "email": "max.shimabucuro@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "assets/img/html.png"
+      },
+      
+      {
+        "name": "CSS",
+        "logo": "assets/img/css.png"
+      },
+
+      {
+        "name": "JavaScript",
+        "logo": "assets/img/js.png"
+      },
+
+      {
+        "name": "Node.js",
+        "logo": "assets/img/nodejs.png"
+      },
+
+      {
+        "name": "React",
+        "logo": "assets/img/react.png"
+      },   
+           
+      {
+        "name": "GitHub",
+        "logo": "assets/img/github.png"
+      },
+
+      {
+        "name": "Git",
+        "logo": "assets/img/git.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português (Nativo)",
+    "Inglês (Intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto 1",
+      "url": "https://maxmesquitashima.github.io/spider-man-multiverses-dio/",
+      "github": true
+    },
+    {
+      "name": "Projeto 2",
+      "url": " https://maxmesquitashima.github.io/js-yugioh-assets/",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Front-End",
+      "period": "2022 - Current",
+      "description": "Desenvolvimento de aplicações web com React, Node.js e outras tecnologias."
+    }
+  ]
+}
